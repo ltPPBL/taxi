@@ -10,6 +10,7 @@ public class Student {
     private int id;
     private String age;
     private String weight;
+    private int dd;
 
     public Student() {
     }
