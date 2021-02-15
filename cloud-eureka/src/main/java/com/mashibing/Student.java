@@ -10,7 +10,6 @@ public class Student {
     private int id;
     private String age;
     private String weight;
-    private String b;
 
     public Student() {
     }
